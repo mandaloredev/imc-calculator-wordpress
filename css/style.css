@@ -1,0 +1,9 @@
+#imc-calculator-form {
+    display: flex;
+    flex-direction: column;
+    padding: 60px 30px;
+}
+
+#imc-calculator-form > button {
+    margin-top: 30px;
+}
